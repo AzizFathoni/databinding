@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\bin\Debug\DataBlinding.exe.config
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\bin\Debug\DataBlinding.exe
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\bin\Debug\DataBlinding.pdb
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.datagridvie.resources
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.Form1.resources
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.menu_utama.resources
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.exe
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.pdb
+C:\Users\Lenovo\source\repos\DataBlinding\DataBlinding\obj\Debug\DataBlinding.Binding_Navigator.resources
